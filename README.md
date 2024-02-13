@@ -1,4 +1,4 @@
-## Food-Studio
+## Food
 This is a Foodordering app. 
 application utilizing React.js and integrated Swiggy API to fetch data. Implemented responsive design using Tailwind CSS to ensure cross-device compatibility. Utilized Redux for state management, enhancing performance and scalability. 
 
